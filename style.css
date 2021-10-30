@@ -17,7 +17,7 @@
     background: #E9ECEF;
 }
 
-h1, h3{
+h1, h2, h3{
     color: #F8A488;
 }
 
@@ -28,6 +28,6 @@ h1, h3{
     box-shadow: 2px 2px 3px 3px grey;
 }
 
-.row{
-    padding-left: 250px;
+.card-header{
+    color: #F8A488;
 }
