@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #5AA897;
+}
+
+.nav-link, .navbar-brand{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: #fff;
+}
+.navbar-brand:hover{
+    color: #fff;
+}
+
+.container{
+    background: #E9ECEF;
+}
+
+h1, h3{
+    color: #F8A488;
+}
+
+.card{
+    background-color: #E9ECEF;
+    border: none;
+    border-radius: 10%;
+    box-shadow: 2px 2px 3px 3px grey;
+}
